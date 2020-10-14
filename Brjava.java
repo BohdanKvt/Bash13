@@ -1,1 +1,1 @@
-System.out.prank("Bye");
+System.out.print("Bye");
